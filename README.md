@@ -79,8 +79,6 @@ She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先
 > <img src="snaps/mimi/92.jpg"><br>
 > ベテランの<ruby>先生<rt>せんせい</rt></ruby>に聞いてみな。
 
-
-
 の can also be chained:
 
 > <img src="snaps/mimi/137.jpg"><br>
@@ -89,3 +87,32 @@ She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先
 夕子 is talking about receiving a letter from <ruby>他<rt>another</rt></ruby>の<ruby>クラス<rt>class</rt></ruby>の<ruby>子<rt>kid</rt></ruby>.
 
 History note: <ruby>平<rt>たいら</rt></ruby>の<ruby>清盛<rt>きよもり</rt></ruby> was the proto-shogun hero in the epic Tale of the Heike.
+
+## KSA <cite>(Kamiya, §3)</cite>
+
+“KSA” is an abbreviation for the pronouns:
+
+- これ, “this, close to the speaker”
+- それ, “that, close to the listener”, and
+- あれ, “that, far from both speaker and listener”.
+
+夕子 asks, “what is this?!”
+
+> <img src="snaps/mimi/126.jpg"><br>
+> <ruby>何<rt>なに</rt></ruby>これ！
+
+The dashing 杉村 asks 雫 to throw him *that* sports bag by them:
+
+> <img src="snaps/mimi/151.jpg"><br>
+> それ<ruby>投<rt>な</rt></ruby>げて～！
+
+When 雫 asks him which is his violin, 聖司 points and says
+
+> <img src="snaps/mimi/687.jpg"><br>
+> あれ。
+
+Adjectival forms of these follow the same first sound:
+
+- この人, this person
+- その人,
+- あの人
