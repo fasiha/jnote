@@ -26,9 +26,36 @@ Meanwhile, が lenses attention to the thing just before it: by the time you’v
 
 More first-person pronouns: more polite than <ruby>私<rt>わたし</rt></ruby> is <ruby>私<rt>わたくし</rt></ruby>. The teacher and the superintendent in [３５歳の高校生](http://wiki.d-addicts.com/35-sai_no_Koukousei) both use this. The superintendent also uses <ruby>我<rt>わ</rt></ruby>が.
 
-Men (and [certain](http://tvtropes.org/pmwiki/pmwiki.php/Main/Bokukko) women) can use <ruby>僕<rt>ぼく</rt></ruby>. The author–ethnogother of [Crested Kimono](http://www.goodreads.com/review/show/878425523) (1991) finds that he must refer to himself with 僕 to prevent matrons from trying to set him up with young women.
+A feminine reading is <ruby>私<rt>あたし</rt></ruby>.
 
-In very familiar settings, men refer to themselves as <ruby>俺<rt>おれ</rt></ruby>.
+Men (and [certain](http://tvtropes.org/pmwiki/pmwiki.php/Main/Bokukko) women) can use <ruby>僕<rt>ぼく</rt></ruby>. The male author–ethnogother of [Crested Kimono](http://www.goodreads.com/review/show/878425523) (1991) finds that he must refer to himself with 僕 to prevent matrons from trying to set him up with young women, since that’s the pronoun then used by students.
+
+In very familiar settings, men can refer to themselves as <ruby>俺<rt>おれ</rt></ruby>.
+
+In this scene of <ruby>耳<rt>みみ</rt></ruby>をすませば　(*Whisper of the Heart*, 1995), fourteen-year-old <ruby>雫<rt>しずく</rt></ruby> uses <ruby>私<rt>わたし</rt></ruby> while her father uses <ruby>僕<rt>ぼく</rt></ruby>.
+
+> <img src="snaps/mimi/22.jpg"><br>
+> 私　カードのほうが<ruby>好<rt>す</rt></ruby>き。
+>
+> <img src="snaps/mimi/23.jpg"><br>
+> 僕も　そうだけどね。
+
+Her friend <ruby>夕子<rt>ゆうこ</rt></ruby> refers herself, in front of her female teacher, with <ruby>私<rt>あたし</rt></ruby>.
+
+> <img src="snaps/mimi/101.jpg"><br>
+> 私　真剣に悩んでるんです！
+
+Meanwhile, 雫 and 夕子’s male classmates <ruby>杉村<rt>すぎむら</rt></ruby> and <ruby>聖司<rt>せいじ</rt></ruby> refer to themselves with 俺 when talking to them.
+
+> <img src="snaps/mimi/147.jpg"><br>
+> （杉村）　俺のバッグ取ってくれる？
+
+⋮
+
+> <img src="snaps/mimi/745.jpg"><br>
+> 俺は天沢。
+
+Though knowledge of pronouns did color my interpretation of the film, I won’t take these examples too seriously. Real life is the best indicator for which pronouns are appropriate when, not film.
 
 The second-person pronoun (“you”), at <ruby>私<rt>わたし</rt></ruby>-grade politeness, is あなた, while <ruby>君<rt>きみ</rt></ruby> and お<ruby>前<rt>まえ</rt></ruby> are increasingly very familiar.
 
