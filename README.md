@@ -20,7 +20,7 @@ One can also say,
 
 The difference is は versus が, the distinction between the two being guaranteed to be discussed in your “Japanese WTF” book. The way I think about it, は lenses attention towards what follows it—when you say 「私は…」 we are hanging on to the edge of our seats, waiting for what comes after: you are WHOM? Tell us, tell us!
 
-Meanwhile, が lenses attention to the thing just before it: by the time you’ve said 「私が…」 we know the most important thing is 私—no matter what follows, the important thing is that it’s 私 that’s that. Not you, not her, but me.
+Meanwhile, が lenses attention to the thing just before it: by the time I’ve said 「私が…」 you know the most important thing is 私—no matter what follows, the important thing is that it’s 私 that’s that. Not you, not her, but me.
 
 ## Pronouns
 
