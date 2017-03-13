@@ -86,6 +86,15 @@ She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先
 
 夕子 is talking about receiving a letter from <ruby>他<rt>another</rt></ruby>の<ruby>クラス<rt>class</rt></ruby>の<ruby>子<rt>kid</rt></ruby>.
 
+の can also do the following, with <ruby>誰<rt>だれ</rt></ruby> meaning “who” and with <ruby>シャツ<rt>shirt</rt></ruby>:
+
+> そのシャツは<ruby>誰<rt>だれ</rt></ruby>の？  
+> 田中さんのです。
+
+where the reply is short for
+
+> そのシャツは田中さんのです。
+
 History note: <ruby>平<rt>たいら</rt></ruby>の<ruby>清盛<rt>きよもり</rt></ruby> was the proto-shogun hero in the epic Tale of the Heike.
 
 ## KSA <cite>(Kamiya, §3)</cite>
