@@ -111,8 +111,18 @@ When 雫 asks him which is his violin, 聖司 points and says
 > <img src="snaps/mimi/687.jpg"><br>
 > あれ。
 
+More formal variants of these are
+
+- こちら
+- そちら
+- あちら,
+
+and can effectively be used as personal pronouns. When answering the phone, 田中さん might say
+
+> こちらは田中です。
+
 Adjectival forms of these follow the same first sound:
 
-- この人, this person
-- その人,
-- あの人
+- この人, this person by me.
+- その人, the person by you.
+- あの人, that person over there.
