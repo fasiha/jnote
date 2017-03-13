@@ -1,6 +1,6 @@
 # JNOTE
 
-## Introducing oneself
+## Introducing oneself <cite>(Kamiya, §1)</cite>
 
 > <ruby>私<rt>わたし</rt></ruby>は<ruby>田中<rt>たかな</rt></ruby>です。
 
@@ -63,8 +63,29 @@ The third-person pronouns of <ruby>彼<rt>かれ</rt></ruby> and <ruby>彼女<rt
 
 あの<ruby>人<rt>ひと</rt></ruby> means “that person” and can be a handy pronoun.
 
-Just refer to people, even the person you’re talking to, by their family name plus the さん honorific, e.g., 田中さん.
+Just refer to people, even the person you’re talking to, by their family name plus the さん honorific, e.g., 田中さん  <cite>(Kamiya, §2)</cite>. Just don’t give yourself or your family members a さん.
 
-## Noun phrases with の
+## Noun phrases with の <cite>(Kamiya, §2)</cite>
 
-A noun  
+In `(noun 1) の (noun 2)`, that `の` means the first noun modifies the second. Often it’s just possessive, per 『<ruby>君<rt>きみ</rt></ruby>の<ruby>名<rt>な</rt></ruby>は』[⋰](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171) but can be much more.
+
+雫’s teacher asks why she can’t wait till the library’s <ruby>次<rt>next</rt></ruby>の<ruby>開放<rt>open</rt></ruby><ruby>日<rt>day</rt></ruby>:
+
+> <img src="snaps/mimi/72.jpg"><br>
+> <ruby>次<rt>つぎ</rt></ruby>の<ruby>開放<rt>かいほう</rt></ruby><ruby>日<rt>び</rt></ruby>まで待てないの？
+
+She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先生<rt>teacher</rt></ruby> for gossip:
+
+> <img src="snaps/mimi/92.jpg"><br>
+> ベテランの<ruby>先生<rt>せんせい</rt></ruby>に聞いてみな。
+
+
+
+の can also be chained:
+
+> <img src="snaps/mimi/137.jpg"><br>
+> <ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>子<rt>こ</rt></ruby>　少しカッコよかった。
+
+夕子 is talking about receiving a letter from <ruby>他<rt>another</rt></ruby>の<ruby>クラス<rt>class</rt></ruby>の<ruby>子<rt>kid</rt></ruby>.
+
+History note: <ruby>平<rt>たいら</rt></ruby>の<ruby>清盛<rt>きよもり</rt></ruby> was the proto-shogun hero in the epic Tale of the Heike.
