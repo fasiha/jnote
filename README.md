@@ -35,7 +35,7 @@ In very familiar settings, men can refer to themselves as <ruby>俺<rt>おれ</r
 In this scene of <ruby>耳<rt>みみ</rt></ruby>をすませば　(*Whisper of the Heart*, 1995), fourteen-year-old <ruby>雫<rt>しずく</rt></ruby> uses <ruby>私<rt>わたし</rt></ruby> while her father uses <ruby>僕<rt>ぼく</rt></ruby>.
 
 > <img src="snaps/mimi/22.jpg"><br>
-> 私　カードのほうが<ruby>好<rt>す</rt></ruby>き。
+> <ruby>私<rt>わたし</rt></ruby>　カードのほうが<ruby>好<rt>す</rt></ruby>き。
 >
 > <img src="snaps/mimi/23.jpg"><br>
 > 僕も　そうだけどね。
@@ -43,7 +43,7 @@ In this scene of <ruby>耳<rt>みみ</rt></ruby>をすませば　(*Whisper of t
 Her friend <ruby>夕子<rt>ゆうこ</rt></ruby> refers herself, in front of her female teacher, with <ruby>私<rt>あたし</rt></ruby>.
 
 > <img src="snaps/mimi/101.jpg"><br>
-> 私　真剣に悩んでるんです！
+> <ruby>私<rt>あたし</rt></ruby>　真剣に悩んでるんです！
 
 Meanwhile, 雫 and 夕子’s male classmates <ruby>杉村<rt>すぎむら</rt></ruby> and <ruby>聖司<rt>せいじ</rt></ruby> refer to themselves with 俺 when talking to them.
 
@@ -135,3 +135,21 @@ Adjectival forms of these follow the same first sound:
 - この人, this person by me.
 - その人, the person by you.
 - あの人, that person over there.
+
+There’s this priceless bit in 紅の豚 (*Porco Rosso*, 1992) where the eponymous pilot addresses his airplane’s failing engine:
+
+> <img src="snaps/porco/39.jpg"><br>
+> この…！
+
+## Questions with か <cite>(Kamiya, §4)</cite>
+
+聖司 asks if this book in his hands is 雫’s:
+
+> <img src="snaps/mimi/181.jpg"><br>
+> あぁ　これ　あんたのか。
+
+To specify multiple alternatives, chain か like so:
+
+> <ruby>朝<rt>あさ</rt></ruby>はパンですか, ご<ruby>飯<rt>はん</rt></ruby>ですか。
+
+Here, we are asking whether in the <ruby>朝<rt>morning</rt></ruby> it’s <ruby>パン<rt>bread</rt></ruby> or <ruby>ご飯<rt>rice</rt></ruby>.
