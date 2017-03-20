@@ -222,7 +222,7 @@ Here’s an example with a negated sentence:
 > <img src="snaps/mimi/587.jpg"><br>
 > <ruby>君<rt>きみ</rt></ruby>も　かわいくないね　私そっくり。
 
-雫 says that *neither* she nor the cat (whom she addresses as <ruby>君<rt>きみ</rt>, see above) is <ruby>かわいい<rt>cute</rt></ruby>. (We’ll see how the adjective かわいい gets negated below.)
+雫 says that *neither* she nor the cat (whom she addresses as <ruby>君<rt>きみ</rt></ruby>, see above) is <ruby>かわいい<rt>cute</rt></ruby>. (We’ll see how the adjective かわいい gets negated below.)
 
 
 # References
