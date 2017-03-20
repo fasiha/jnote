@@ -229,7 +229,7 @@ Multiple things can be chained together with も <cite>(Kamiya, §8)</cite>:
 > <img src="snaps/mimi/1000.jpg"><br>
 > 雫さんも<ruby>聖司<rt>せいじ</rt></ruby>も その<ruby>石<rt>いし</rt></ruby>みたいなものだ。
 
-西さん is saying that both 雫 and 聖司 resemble a <ruby>石<rt>stone</rt></ruby> (a rough emerald, which is off-frame).
+Here, 西さん (聖司’s grandfather) is saying that both 雫 and 聖司 resemble a <ruby>石<rt>stone</rt></ruby> (a rough emerald, which is off-frame).
 
 # References
 
