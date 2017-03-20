@@ -32,20 +32,22 @@ Men (and [certain](http://tvtropes.org/pmwiki/pmwiki.php/Main/Bokukko) women) ca
 
 In very familiar settings, men can refer to themselves as <ruby>俺<rt>おれ</rt></ruby>.
 
-In this scene of <ruby>耳<rt>みみ</rt></ruby>をすませば　(*Whisper of the Heart*, 1995), fourteen-year-old <ruby>雫<rt>しずく</rt></ruby> uses <ruby>私<rt>わたし</rt></ruby> while her father uses <ruby>僕<rt>ぼく</rt></ruby>.
+In this scene of <ruby>耳<rt>みみ</rt></ruby>をすませば　(*Whisper of the Heart*, 1995), fourteen-year-old <ruby>雫<rt>しずく</rt></ruby> uses <ruby>私<rt>あたし</rt></ruby> while her father uses <ruby>僕<rt>ぼく</rt></ruby>.
 
 > <img src="snaps/mimi/22.jpg"><br>
-> <ruby>私<rt>わたし</rt></ruby>　カードのほうが<ruby>好<rt>す</rt></ruby>き。
+> <ruby>私<rt>あたし</rt></ruby>　カードのほうが<ruby>好<rt>す</rt></ruby>き。
 >
 > <img src="snaps/mimi/23.jpg"><br>
 > 僕も　そうだけどね。
 
-Her friend <ruby>夕子<rt>ゆうこ</rt></ruby> refers herself, in front of her female teacher, with <ruby>私<rt>あたし</rt></ruby>.
+Later, when talking to <ruby>西<rt>にし</rt></ruby>さん, an elderly musician–artisan, she distinctly refers to herself as <ruby>私<rt>わたし</rt></ruby>.
 
-> <img src="snaps/mimi/101.jpg"><br>
-> <ruby>私<rt>あたし</rt></ruby>　真剣に悩んでるんです！
+> <img src="snaps/mimi/1257.jpg"><br>
+> <ruby>私<rt>わたし</rt></ruby>　書いてみて分かったんです。
 
-Meanwhile, 雫 and 夕子’s male classmates <ruby>杉村<rt>すぎむら</rt></ruby> and <ruby>聖司<rt>せいじ</rt></ruby> refer to themselves with 俺 when talking to them.
+(She’s sad here because her Quest—writing a novel—just ended. The weight of giving birth to an artistic achievement has moved her to tears.)
+
+Meanwhile, 雫’s male classmates <ruby>杉村<rt>すぎむら</rt></ruby> and <ruby>聖司<rt>せいじ</rt></ruby> refer to themselves with 俺 when talking to them.
 
 > <img src="snaps/mimi/147.jpg"><br>
 > （杉村）　俺のバッグ取ってくれる？
@@ -84,7 +86,7 @@ She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先
 > <img src="snaps/mimi/137.jpg"><br>
 > <ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>子<rt>こ</rt></ruby>　少しカッコよかった。
 
-夕子 is talking about receiving a letter from <ruby>他<rt>another</rt></ruby>の<ruby>クラス<rt>class</rt></ruby>の<ruby>子<rt>kid</rt></ruby>.
+雫’s close friend <ruby>夕子<rt>ゆうこ</rt></ruby> is talking about receiving a letter from <ruby>他<rt>another</rt></ruby>の<ruby>クラス<rt>class</rt></ruby>の<ruby>子<rt>kid</rt></ruby>.
 
 の can also do the following, with <ruby>誰<rt>だれ</rt></ruby> meaning “who” and with <ruby>シャツ<rt>shirt</rt></ruby>:
 
@@ -115,7 +117,7 @@ The dashing 杉村 asks 雫 to throw him *that* sports bag by them:
 > <img src="snaps/mimi/151.jpg"><br>
 > それ<ruby>投<rt>な</rt></ruby>げて～！
 
-When 雫 asks him which is his violin, 聖司 points and says
+When 雫 asks him which is his violin, 聖司 gestures and says
 
 > <img src="snaps/mimi/687.jpg"><br>
 > あれ。
