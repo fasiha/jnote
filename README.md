@@ -12,6 +12,8 @@ Common, textbook way on introducing oneself, assuming one’s surname (last name
 
 は is pronounced わ—don’t ask.
 
+Obligatory technical stuff: please don’t read this. は used like this indicates that the thing it followed is the topic of the conversation—subsequent references to it can be dropped. Meanwhile, です and だ are both copulas, i.e., they couple two things together, specifically 私 and 田中. In English, “is” is a copula, in “I am (is) Tanaka” but English can misguide you because the “is”-copula is a verb, “to be”. The copulas in Japanese aren’t verbs. If you’ve read this paragraph, forgive me for including this and keep reading—descriptive examples are much more important than descriptive grammars.
+
 ## Another way
 
 One can also say,
@@ -187,3 +189,21 @@ I must close with a furious 雫 slamming the fridge door and asking “what the 
 
 > <img src="snaps/mimi/192.jpg"><br>
 > <ruby>何<rt>なに</rt></ruby>よ！
+
+## Negating だ／です <cite>(Kamiya, §6)</cite>
+
+Recall that the first section asked you not to read that だ and です (more polite) were *copulas*, i.e., they couple two parts of the sentence—like a linguistic equal sign, `X = Y`. It’s important to be able to negate the copula, i.e., say something isn’t something else, or `X ≠ Y`.
+
+| original | negated | negated, informal |
+|---|---|---|
+| だ | ではない | じゃない |
+| です | ではありません | じゃありません |
+
+は in ではない and ではありません is pronounced わ.
+
+雫 hopes this isn’t a <ruby>夢<rt>dream</rt></ruby>:
+
+> <img src="snaps/mimi/1336.jpg"><br>
+> <ruby>夢<rt>ゆめ</rt></ruby>じゃないよね？
+
+(The よ (~emphasis) and ね (~seeking agreement) are fillers.)
