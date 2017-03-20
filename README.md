@@ -224,6 +224,12 @@ Here’s an example with a negated sentence:
 
 雫 says that *neither* she nor the cat (whom she addresses as <ruby>君<rt>きみ</rt></ruby>, see above) is <ruby>かわいい<rt>cute</rt></ruby>. (We’ll see how the adjective かわいい gets negated below.)
 
+Multiple things can be chained together with も <cite>(Kamiya, §8)</cite>:
+
+> <img src="snaps/mimi/1000.jpg"><br>
+> 雫さんも<ruby>聖司<rt>せいじ</rt></ruby>も その<ruby>石<rt>いし</rt></ruby>みたいなものだ。
+
+西さん is saying that both 雫 and 聖司 resemble a <ruby>石<rt>stone</rt></ruby> (a rough emerald, which is off-frame).
 
 # References
 
