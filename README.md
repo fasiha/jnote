@@ -224,12 +224,19 @@ Here’s an example with a negated sentence:
 
 雫 says that *neither* she nor the cat (whom she addresses as <ruby>君<rt>きみ</rt></ruby>, see above) is <ruby>かわいい<rt>cute</rt></ruby>. (We’ll see how the adjective かわいい gets negated below.)
 
-Multiple things can be chained together with も <cite>(Kamiya, §8)</cite>:
+も can be chained together <cite>(Kamiya, §8)</cite>:
 
 > <img src="snaps/mimi/1000.jpg"><br>
 > 雫さんも<ruby>聖司<rt>せいじ</rt></ruby>も その<ruby>石<rt>いし</rt></ruby>みたいなものだ。
 
 Here, 西さん (聖司’s grandfather) is telling 雫 that both she and 聖司 resemble a <ruby>石<rt>stone</rt></ruby> (a rough emerald, which is off-frame).
+
+If the sentence is negative, も becomes でも when chained together:
+
+> <img src="snaps/porco/651.jpg"><br>
+> <ruby>彼<rt>かれ</rt></ruby>らの<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>事<rt>じ</rt></ruby>なものは　<ruby>金<rt>かね</rt></ruby>でも<ruby>女<rt>おんあ</rt></ruby>でもない　<ruby>名誉<rt>めいよ</rt></ruby>だって。
+
+Fio is recounting how she was told that their (seaplane pilots’, <ruby>彼<rt>かれ</rt></ruby>らの) <ruby>一番<rt>#1</rt></ruby> <ruby>大事<rt>important thing</rt></ruby> is neither <ruby>金<rt>money</rt></ruby> nor <ruby>女<rt>women</rt></ruby>, but <ruby>名誉<rt>honor</rt></ruby>.
 
 # References
 
