@@ -207,3 +207,24 @@ Recall that the first section asked you not to read that だ and です (more po
 > <ruby>夢<rt>ゆめ</rt></ruby>じゃないよね？
 
 (The よ (~emphasis) and ね (~seeking agreement) are fillers.)
+
+## “Also” via も <cite>(Kamiya, §7)</cite>
+
+Replacing the topic marker は with も means “also” or “as well” (“neither” for negative sentences). We’ve seen this example above:
+
+> <img src="snaps/mimi/23.jpg"><br>
+> 僕も　そうだけどね。
+
+雫 had just said she likes library cards better than barcodes, and her father agrees—“me too”.
+
+Here’s an example with a negated sentence:
+
+> <img src="snaps/mimi/587.jpg"><br>
+> <ruby>君<rt>きみ</rt></ruby>も　かわいくないね　私そっくり。
+
+雫 says that *neither* she nor the cat (whom she addresses as <ruby>君<rt>きみ</rt>, see above) is <ruby>かわいい<rt>cute</rt></ruby>. (We’ll see how the adjective かわいい gets negated below.)
+
+
+# References
+
+Kamiya, Taeko. <cite>Japanese Sentence Patterns for Effective Communication</cite>, Kodansha (2005).
