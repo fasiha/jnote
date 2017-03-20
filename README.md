@@ -155,3 +155,30 @@ To specify multiple alternatives, chain か like so:
 > <ruby>朝<rt>あさ</rt></ruby>はパンですか, ご<ruby>飯<rt>はん</rt></ruby>ですか。
 
 Here, we are asking whether in the <ruby>朝<rt>morning</rt></ruby> it’s <ruby>パン<rt>bread</rt></ruby> or <ruby>ご飯<rt>rice</rt></ruby>.
+
+## Who? <ruby>誰<rt>だれ</rt></ruby>？ <cite>(Kamiya, §5)</cite>
+
+夕子 asks 雫 who that guy is that she’s glaring at.
+
+> <img src="snaps/mimi/433.jpg"><br>
+> 雫　<ruby>誰<rt>だれ</rt></ruby>？　あいつ？ へ行く気？
+
+She could say this more “properly” as 「あいつはだれ？」, for <ruby>あいつ<rt>that one</rt></ruby> (very informal ungendered third-person pronoun).
+
+## What? <ruby>何<rt>なに</rt></ruby>？ <cite>(Kamiya, §5)</cite>
+
+We already used this example:
+
+> <img src="snaps/mimi/126.jpg"><br>
+> <ruby>何<rt>なに</rt></ruby>これ！
+
+This is short for 「これは何！」.
+
+It can be abbreviated as なん to be more euphonious.
+
+> <img src="snaps/mimi/297.jpg"><br>
+> これ　<ruby>何<rt>なん</rt>ですか？
+
+Here, the は has been left off—it officially ought to be 「これは何ですか？」.
+
+Note for both 誰 and 何, start a sentence with the topic, followed by は (the topic marker), and then tack on the appropriate word to make it a who or what question: 「Ｘは誰？」 and 「Ｙは何？」. Optionally add 「…ですか？」.
