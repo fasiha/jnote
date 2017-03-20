@@ -182,3 +182,8 @@ It can be abbreviated as なん to be more euphonious.
 Here, the は has been left off—it officially ought to be 「これは何ですか？」.
 
 Note for both 誰 and 何, start a sentence with the topic, followed by は (the topic marker), and then tack on the appropriate word to make it a who or what question: 「Ｘは誰？」 and 「Ｙは何？」. Optionally add 「…ですか？」.
+
+I must close with a furious 雫 slamming the fridge door and asking “what the heck?!”:
+
+> <img src="snaps/mimi/192.jpg"><br>
+> <ruby>何<rt>なに</rt></ruby>よ！
