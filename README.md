@@ -140,7 +140,7 @@ Adjectival forms of these follow the same first sound:
 - その人, the person by you.
 - あの人, that person over there.
 
-There’s this priceless bit in 紅の豚 (*Porco Rosso*, 1992) where the eponymous pilot addresses his airplane’s failing engine:
+There’s this priceless bit in <ruby>紅<rt>くれない</rt></ruby>の<ruby>豚<rt>ぶた</rt></ruby> (*Porco Rosso*, 1992) where the eponymous pilot addresses his airplane’s failing engine:
 
 > <img src="snaps/porco/39.jpg"><br>
 > この…！
@@ -236,7 +236,7 @@ If the sentence is negative, も becomes でも when chained together:
 > <img src="snaps/porco/651.jpg"><br>
 > <ruby>彼<rt>かれ</rt></ruby>らの<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>事<rt>じ</rt></ruby>なものは　<ruby>金<rt>かね</rt></ruby>でも<ruby>女<rt>おんあ</rt></ruby>でもない　<ruby>名誉<rt>めいよ</rt></ruby>だって。
 
-Fio is recounting how she was told that their (seaplane pilots’, <ruby>彼<rt>かれ</rt></ruby>らの) <ruby>一番<rt>#1</rt></ruby> <ruby>大事<rt>important thing</rt></ruby> is neither <ruby>金<rt>money</rt></ruby> nor <ruby>女<rt>women</rt></ruby>, but <ruby>名誉<rt>honor</rt></ruby>.
+Fio is recounting—in <ruby>紅<rt>くれない</rt></ruby>の<ruby>豚<rt>ぶた</rt></ruby> (*Porco Rosso*)—how she was told that their (seaplane pilots’, <ruby>彼<rt>かれ</rt></ruby>らの) <ruby>一番<rt>#1</rt></ruby> <ruby>大事<rt>important thing</rt></ruby> is neither <ruby>金<rt>money</rt></ruby> nor <ruby>女<rt>women</rt></ruby>, but <ruby>名誉<rt>honor</rt></ruby>.
 
 ## Past tense of だ and です <cite>(Kamiya, §9)</cite>
 
@@ -259,6 +259,8 @@ Here, the Baron (the cat doll) recalls that he and <ruby>ルイーゼ<rt>Luise</
 
 > <img src="snaps/mimi/1062.jpg"><br>
 > しかし ルイーゼと私は<ruby>幸<rt>しあわ</rt></ruby>せだった。
+
+(Note that this technicolor dream scene was directed by the main man himself, <ruby>宮崎<rt>みやざき</rt></ruby><ruby>駿<rt>はやお</rt></ruby>. The rest of this wonderful film—耳をすませば (*Whisper of the Heart*)—was directed by the late <ruby>近藤<rt>こんどう</rt></ruby><ruby>喜文<rt>よしふみ</rt></ruby> 😢.)
 
 ## Negating だった and でした <cite>(Kamiya, §10)</cite>
 
