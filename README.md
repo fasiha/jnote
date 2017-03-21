@@ -260,7 +260,7 @@ Here, the Baron (the cat doll) recalls that he and <ruby>ルイーゼ<rt>Luise</
 > <img src="snaps/mimi/1062.jpg"><br>
 > しかし ルイーゼと私は<ruby>幸<rt>しあわ</rt></ruby>せだった。
 
-(Note that this technicolor dream scene was directed by the main man himself, <ruby>宮崎<rt>みやざき</rt></ruby><ruby>駿<rt>はやお</rt></ruby>. The rest of this wonderful film—耳をすませば (*Whisper of the Heart*)—was directed by the late <ruby>近藤<rt>こんどう</rt></ruby><ruby>喜文<rt>よしふみ</rt></ruby> 😢.)
+(Note that this technicolor dream scene was directed by the main man himself, <ruby>宮崎<rt>みやざき</rt></ruby><ruby>駿<rt>はやお</rt></ruby>. The rest of this wonderful film—<ruby>耳<rt>みみ</rt></ruby>をすませば (*Whisper of the Heart*)—was directed by the late <ruby>近藤<rt>こんどう</rt></ruby><ruby>喜文<rt>よしふみ</rt></ruby> 😢.)
 
 ## Negating だった and でした <cite>(Kamiya, §10)</cite>
 
@@ -279,6 +279,86 @@ Here, 雫 is impressed that <ruby>杉村<rt>すぎむら</rt></ruby> (offscreen)
 > ただの<ruby>野球<rt>やきゅ</rt></ruby>バカじゃなかったんだ。
 
 (Don’t worry about that trailing `だ`. The `んだ` at the end is more filler.)
+
+## Adjectives! <cite>(Kamiya, §11)</cite>
+
+So far the only grammar we’ve learned are copulas, plus a tiny number of scattered vocabulary to explain film scenes or example sentences. Let’s learn about adjectives now, of which there are two kinds:
+
+- い-adjectives, which end in い, and
+- な-adjectives, which end in anything (including い! though these are few in number).
+
+My favorite い-adjectives include:
+
+- いい good
+- すごい amazing
+- <ruby>高<rt>たか</rt></ruby>い tall
+  - <ruby>高<rt>たか</rt></ruby><ruby>橋<rt>はし</rt></ruby>・<ruby>留美子<rt>るみこ</rt></ruby>, who wrote Urusei Yatsura, and <ruby>高<rt>たか</rt></ruby><ruby>畑<rt>はた</rt></ruby>・<ruby>勲<rt>いさお</rt></ruby>, the Studio Ghibli filmmaker, both have this in their names. 高橋 means “tall bridge”. 高畑 means “high farm”.
+- <ruby>悪<rt>わる</rt></ruby>い bad
+  - In the Mario franchise, Mario’s evil twin is Wario, which is a pun on this word.
+- <ruby>楽<rt>たの</rt></ruby>しい fun
+- <ruby>強<rt>つよ</rt></ruby>い strong
+- <ruby>新<rt>あたら</rt></ruby>しい new
+- <ruby>早<rt>はや</rt></ruby>い early
+
+(Each of these is actually in the top-500 most commonly used Japanese words.)
+
+My favorite な-adjectives include:
+
+- <ruby>好<rt>す</rt></ruby>き beloved
+- きれい pretty, beautiful
+  - One of the few な-adjectives ending in い. Etymology…
+- <ruby>大<rt>だい</rt></ruby><ruby>事<rt>じ</rt></ruby> important, serious
+- <ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby> easy
+- <ruby>大<rt>たい</rt></ruby><ruby>切<rt>せつ</rt></ruby> important, precious
+- <ruby>有<rt>ゆう</rt></ruby><ruby>名<rt>めい</rt></ruby> famous
+- <ruby>嫌<rt>いや</rt></ruby> unpleasant
+- <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby> lovely, great
+
+All but the last one are also in top-500 words in Japanese. (<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby> is in the 1500s.)
+
+The difference between the two groups is how we use each to modify nouns:
+
+- い-adjective + noun
+- な-adjective + `な` + noun
+
+Some quick examples: first the な, then the い.
+
+> <img src="snaps/mimi/129.jpg"><br>
+> うん…　雫　<ruby>好<rt>す</rt></ruby>きな<ruby>人<rt>ひと</rt></ruby>いる？
+
+夕子 asks 雫 if she has a <ruby>好き<rt>beloved</rt></ruby>な<ruby>人<rt>person</rt></ruby> (someone she likes).
+
+And who can forget this scene with 雫 enraged with 聖司 (offscreen)?
+
+> <img src="snaps/mimi/189.jpg"><br>
+> やな奴！　やな奴！　やな奴！
+
+Here, `や` in やな奴 is short for the な-adjective <ruby>嫌<rt>いや</rt></ruby> meaning “detestable” (you have very likely heard 「<ruby>嫌<rt>いや</rt></ruby>だ」, as a childish way of saying “do not want!”). Also, <ruby>奴<rt>guy</rt></ruby>.
+
+Now for the い-adjectives:
+
+> <img src="snaps/mimi/107.jpg"><br>
+> ♪～　<ruby>白<rt>しろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>　湧く丘を
+
+This verse is lyrically celebrating <ruby>白い<rt>white</rt></ruby> <ruby>雲<rt>clouds</rt></ruby>, while two verses later, it’s an <ruby>古い<rt>old</rt></ruby> <ruby>部屋<rt>room</rt></ruby>:
+
+> <img src="snaps/mimi/109.jpg"><br>
+> ♪～　<ruby>古<rt>ふる</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>　<ruby>小<rt>ちい</rt></ruby>さな<ruby>窓<rt>まど</rt></ruby>
+
+Sidebar. Here’s the few な-adjectives ending in い in the list of the top-5000 Japanese words:
+
+- みたい seeming
+- きれい pretty
+- <ruby>嫌<rt>きら</rt></ruby>い hated
+- <ruby>幸<rt>さいわ</rt></ruby>い happy
+
+Note that <ruby>小<rt>ちい</rt></ruby>さい (small) is *not* on this list: it’s an い-adjective. I mention this because in the previous example (with `古い部屋`), it’s used as a な-adjective—super-confusing! This is because 小さい can be an い-adjective or a な-adjective. Don’t ask. (In this verse, it’s a <ruby>窓<rt>window</rt></ruby> that’s <ruby>小さな<rt>small</rt></ruby>.)
+
+Sidebar the second. We’ll flesh this out soon enough, but the linguistic superheroes might appreciate this. な is basically a copula (and some な-adjectives [(Boaz Yaniv)](http://japanese.stackexchange.com/a/1016/4706) in some situations today still use だ or の), because な-adjectives are just nouns.
+
+Along those lines, い-adjectives are just verbs. As [Yaniv](http://japanese.stackexchange.com/a/1016/4706) explains, Japanese doesn’t really have adjectives, just nouns and verbs (and… other stuff) that modify nouns.
+
+Sidebar the third. It may be worth noting that kanji in the above list of い-adjectives all used kunyomi (Japanese readings), while most of the な-adjectives are compound words using onyomi (Chinese readings). Is there a <ruby>和<rt>わ</rt></ruby><ruby>語<rt>ご</rt></ruby> versus <ruby>漢<rt>かん</rt></ruby><ruby>語<rt>ご</rt></ruby> thing here? Stay tuned! (Read more about the fascinating differences between these: [Koichi/Tofugu](https://www.tofugu.com/japanese/yamato-kotoba-language/), [yinamoto/Lang-8](http://lang-8.com/144559/journals/565126).)
 
 # References
 
