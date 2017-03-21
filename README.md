@@ -255,6 +255,11 @@ Simple example, using <ruby>友達<rt>friend</rt></ruby> and <ruby>先生<rt>tea
 >
 > <ruby>先生<rt>せんせい</rt></ruby>だった。
 
+Here, the Baron (the cat doll) recalls that he and <ruby>ルイーゼ<rt>Luise</rt></ruby> were <ruby>幸せ<rt>happy</rt></ruby>:
+
+> <img src="snaps/mimi/1062.jpg"><br>
+> しかし ルイーゼと私は<ruby>幸<rt>しあわ</rt></ruby>せだった。
+
 ## Negating だった and でした <cite>(Kamiya, §10)</cite>
 
 Here are the copular past tenses, negated:
@@ -265,6 +270,13 @@ Here are the copular past tenses, negated:
 | です | でした | ではありませんでした | じゃありませんでした |
 
 Again, は is pronounced わ, and `でわ` can be replaced with `じゃ` to reduce formality.
+
+Here, 雫 is impressed that <ruby>杉村<rt>すぎむら</rt></ruby> (offscreen) is smart, and not just an <ruby>ただ<rt>ordinary</rt></ruby> <ruby>野球<rt>baseball</rt></ruby> <ruby>バカ<rt>fool</rt></ruby> 😂:
+
+> <img src="snaps/mimi/394.jpg"><br>
+> ただの<ruby>野球<rt>やきゅ</rt></ruby>バカじゃなかったんだ。
+
+(Don’t worry about that trailing `だ`. The `んだ` at the end is more filler.)
 
 # References
 
