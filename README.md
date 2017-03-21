@@ -190,7 +190,7 @@ I must close with a furious 雫 slamming the fridge door and asking “what the 
 > <img src="snaps/mimi/192.jpg"><br>
 > <ruby>何<rt>なに</rt></ruby>よ！
 
-## Negating だ／です <cite>(Kamiya, §6)</cite>
+## Negating だ and です <cite>(Kamiya, §6)</cite>
 
 Recall that the first section asked you not to read that だ and です (more polite) were *copulas*, i.e., they couple two parts of the sentence—like a linguistic equal sign, `X = Y`. It’s important to be able to negate the copula, i.e., say something isn’t something else, or `X ≠ Y`.
 
@@ -199,7 +199,7 @@ Recall that the first section asked you not to read that だ and です (more po
 | だ | ではない | じゃない |
 | です | ではありません | じゃありません |
 
-は in ではない and ではありません is pronounced わ.
+は in `ではない` and `ではありません` is pronounced わ; and by replacing `では` with `じゃ` (right-most column), you reduce formality: `じゃありません` is between `ではありません` and `ではない` in formality. ない is the informal form of ありません. ([StackExchange reference](http://japanese.stackexchange.com/a/12848/4706).)
 
 雫 hopes this isn’t a <ruby>夢<rt>dream</rt></ruby>:
 
@@ -237,6 +237,34 @@ If the sentence is negative, も becomes でも when chained together:
 > <ruby>彼<rt>かれ</rt></ruby>らの<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>事<rt>じ</rt></ruby>なものは　<ruby>金<rt>かね</rt></ruby>でも<ruby>女<rt>おんあ</rt></ruby>でもない　<ruby>名誉<rt>めいよ</rt></ruby>だって。
 
 Fio is recounting how she was told that their (seaplane pilots’, <ruby>彼<rt>かれ</rt></ruby>らの) <ruby>一番<rt>#1</rt></ruby> <ruby>大事<rt>important thing</rt></ruby> is neither <ruby>金<rt>money</rt></ruby> nor <ruby>女<rt>women</rt></ruby>, but <ruby>名誉<rt>honor</rt></ruby>.
+
+## Past tense of だ and です <cite>(Kamiya, §9)</cite>
+
+Recall that the copulas だ and です (more polite) couple two things as “equal”. By using the following past tense versions of these, you can say two things used to be “equal”:
+
+| present | past |
+|---|---|
+| だ | だった |
+| です | でした |
+
+Simple example, using <ruby>友達<rt>friend</rt></ruby> and <ruby>先生<rt>teacher</rt></ruby> as vocabulary:
+
+> あの人は誰か。
+>
+> <ruby>友達<rt>ともだち</rt></ruby>だ。
+>
+> <ruby>先生<rt>せんせい</rt></ruby>だった。
+
+## Negating だった and でした <cite>(Kamiya, §10)</cite>
+
+Here are the copular past tenses, negated:
+
+| original | past | neg. past | neg. past, informal. |
+|---|---|---|---|
+| だ | だった | ではなかった | じゃなかった |
+| です | でした | ではありませんでした | じゃありませんでした |
+
+Again, は is pronounced わ, and `でわ` can be replaced with `じゃ` to reduce formality.
 
 # References
 
