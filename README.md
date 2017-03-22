@@ -328,10 +328,10 @@ Some quick examples: first the な, then the い.
 
 夕子 asks 雫 if she has a <ruby>好き<rt>beloved</rt></ruby>な<ruby>人<rt>person</rt></ruby> (someone she likes).
 
-And who can forget this scene with 雫 enraged with 聖司 (offscreen)?
+And who can forget this scene with 雫 enraged at 聖司 (offscreen)?
 
 > <img src="snaps/mimi/189.jpg"><br>
-> やな奴！　やな奴！　やな奴！
+> やな<ruby>奴<rt>やつ</rt></ruby>！　やな<ruby>奴<rt>やつ</rt></ruby>！　やな<ruby>奴<rt>やつ</rt></ruby>！
 
 Here, `や` in やな奴 is short for the な-adjective <ruby>嫌<rt>いや</rt></ruby> meaning “detestable” (you have very likely heard 「<ruby>嫌<rt>いや</rt></ruby>だ」, as a childish way of saying “do not want!”). Also, <ruby>奴<rt>guy</rt></ruby>.
 
@@ -352,7 +352,7 @@ Sidebar. Here’s the few な-adjectives ending in い in the list of the top-50
 - <ruby>嫌<rt>きら</rt></ruby>い hated
 - <ruby>幸<rt>さいわ</rt></ruby>い happy
 
-Note that <ruby>小<rt>ちい</rt></ruby>さい (small) is *not* on this list: it’s an い-adjective. I mention this because in the previous example (with `古い部屋`), it’s used as a な-adjective—super-confusing! This is because 小さい can be an い-adjective or a な-adjective. Don’t ask. (In this verse, it’s a <ruby>窓<rt>window</rt></ruby> that’s <ruby>小さな<rt>small</rt></ruby>.)
+Note that <ruby>小<rt>ちい</rt></ruby>さい (small) is *not* on this list: it’s an い-adjective. I mention this because in the previous example (about an old room, 古い部屋), it’s used as a な-adjective—super-confusing! This is because 小さい can be an い-adjective or a な-adjective. Don’t ask. (In this verse, it’s a <ruby>窓<rt>window</rt></ruby> that’s <ruby>小さな<rt>small</rt></ruby>.)
 
 Sidebar the second. We’ll flesh this out soon enough, but the linguistic superheroes might appreciate this. な is basically a copula (and some な-adjectives [(Boaz Yaniv)](http://japanese.stackexchange.com/a/1016/4706) in some situations today still use だ or の), because な-adjectives are just nouns.
 
