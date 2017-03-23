@@ -1,5 +1,13 @@
 # JNOTE
 
+## Prerequisites
+
+Spend a couple of hours, in one sitting or over a couple of days, learning hiragana using visual stories mnemonic that will delight you—[Memrise’s Basic Hiragana 1](https://www.memrise.com/course/58584/basic-hiragana-1/) course will get you sorted. Then glance at the [Basic Hiragana 2](https://www.memrise.com/course/58802/basic-hiragana-2-2/) course to complete it.
+
+If you’re the type that needs to read an authoritative and persuasive article before diving into something, Josh Foer’s [ode to Memrise](https://www.theguardian.com/education/2012/nov/09/learn-language-in-three-months) in the Guardian is how I got hooked.
+
+Less important for this document is katakana. Once you learn hiragana, spend an hour with [Memrise’s Basic Katakana 1](https://www.memrise.com/course/63113/basic-katakana-1/) and you’ll be set.
+
 ## Introducing oneself <cite>(Kamiya, §1)</cite>
 
 > <ruby>私<rt>わたし</rt></ruby>は<ruby>田中<rt>たかな</rt></ruby>です。
