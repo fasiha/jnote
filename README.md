@@ -360,6 +360,43 @@ Along those lines, い-adjectives are just verbs. As [Yaniv](http://japanese.sta
 
 Sidebar the third. It may be worth noting that kanji in the above list of い-adjectives all used kunyomi (Japanese readings), while most of the な-adjectives are compound words using onyomi (Chinese readings). Is there a <ruby>和<rt>わ</rt></ruby><ruby>語<rt>ご</rt></ruby> versus <ruby>漢<rt>かん</rt></ruby><ruby>語<rt>ご</rt></ruby> thing here? Stay tuned! (Read more about the fascinating differences between these: [Koichi/Tofugu](https://www.tofugu.com/japanese/yamato-kotoba-language/), [yinamoto/Lang-8](http://lang-8.com/144559/journals/565126).)
 
+## Adjectives in sentences <cite>(Kamiya, §12)</cite>
+
+As mentioned in a sidebar in the previous section, い-adjectives like いい are verbs, and they *replace* the copula (だ or です). In contrast, な-adjectives, being nouns, *require* a copula.
+
+Some examples.
+
+> <img src="snaps/mimi/1097.jpg"><br>
+> <ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>いのね　<ruby>汐<rt>しお</rt></ruby>。
+
+雫’s mom notes that 雫’s older sister <ruby>汐<rt>しお</rt></ruby> (you can barely see her at the table in this still) is home <ruby>早い<rt>early</rt></ruby> <ruby>今日<rt>today</rt></ruby>. The `のね` is filler (`の` adding emphasis and `ね` adding a slight request for confirmation).
+
+> <img src="snaps/porco/672.jpg"><br>
+> <ruby>俺<rt>おれ</rt></ruby>は<ruby>恥<rt>は</rt></ruby>ずかしい…。
+
+In this seen from 紅の豚 (*Porco Rosso*), the pirate chief says he’s ruby>恥ずかしい<rt>ashamed</rt></ruby> (and subsequently hangs his head).
+
+In both examples—no need for a copula like だ or です. **However—caveat**. You may append です, like `(word) + は + (い-adjective) + です` to add politeness.
+
+Some な-adjective examples.
+
+> <img src="snaps/mimi/163.jpg"><br>
+> <ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>だって　あいつ　にぶいから。
+
+雫 assures her friend <ruby>夕子<rt>ゆうこ</rt></ruby> that it was <ruby>大丈夫<rt>OK</rt></ruby> (the な-adjective; if you’ve watched any anime, you’ve probably learned this word). And as a bonus, we get an い-adjective too: she says <ruby>あいつ<rt>that guy</rt></ruby>, meaning <ruby>杉村<rt>すぎむら</rt></ruby>, is (she drops the topic marker `は`) <ruby>にぶい<rt>dense</rt></ruby>. The latter gets no だ, but the former does.
+
+Some further notes about this example: note the copular past tense here, だって. Also, the `から` following にぶい means that this is offered by way of explanation. So here, 雫 is saying that the situation they just left behind was ok, and not embarrassing as <ruby>夕子<rt>ゆうこ</rt></ruby> feared, *because* <ruby>杉村<rt>すぎむら</rt></ruby> is a dullard and failed to pick up on 夕子’s embarrassment at talking to him. See <cite>Kamiya, §82</cite> for the juicy details.
+
+> <img src="snaps/mimi/454.jpg"><br>
+> まあ　ロマンチックですこと。
+
+Here 雫’s friend is teasing her, saying *her* situation with 聖司 is so <ruby>ロマンチック<rt>romantic</rt></ruby>, which is a な-adjective, and so needs `です`.
+
+> <img src="snaps/mimi/1251.jpg"><br>
+> あなたは<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>です。
+
+聖司’s grandfather, <ruby>西<rt>にし</rt></ruby>さん, is praising 雫 as <ruby>素敵<rt>wonderful</rt></ruby> after she finished writing her novel.
+
 # References
 
 Kamiya, Taeko. <cite>Japanese Sentence Patterns for Effective Communication</cite>, Kodansha (2005).
