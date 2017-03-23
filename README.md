@@ -268,7 +268,7 @@ Here, the Baron (the cat doll) recalls that he and <ruby>ルイーゼ<rt>Luise</
 > <img src="snaps/mimi/1062.jpg"><br>
 > しかし ルイーゼと私は<ruby>幸<rt>しあわ</rt></ruby>せだった。
 
-(Note that this technicolor dream scene was directed by the main man himself, <ruby>宮崎<rt>みやざき</rt></ruby><ruby>駿<rt>はやお</rt></ruby>. The rest of this wonderful film—<ruby>耳<rt>みみ</rt></ruby>をすませば (*Whisper of the Heart*)—was directed by the late <ruby>近藤<rt>こんどう</rt></ruby><ruby>喜文<rt>よしふみ</rt></ruby> 😢.)
+(Note that this technicolor dream scene was directed by the main man himself, <ruby>宮崎<rt>みやざき</rt></ruby>・<ruby>駿<rt>はやお</rt></ruby>. The rest of this wonderful film—<ruby>耳<rt>みみ</rt></ruby>をすませば (*Whisper of the Heart*)—was directed by the late <ruby>近藤<rt>こんどう</rt></ruby>・<ruby>喜文<rt>よしふみ</rt></ruby> 😢.)
 
 ## Negating だった and でした <cite>(Kamiya, §10)</cite>
 
