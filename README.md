@@ -303,6 +303,7 @@ My favorite い-adjectives include:
   - <ruby>高<rt>たか</rt></ruby><ruby>橋<rt>はし</rt></ruby>・<ruby>留美子<rt>るみこ</rt></ruby>, who wrote Urusei Yatsura, and <ruby>高<rt>たか</rt></ruby><ruby>畑<rt>はた</rt></ruby>・<ruby>勲<rt>いさお</rt></ruby>, the Studio Ghibli filmmaker, both have this in their names. 高橋 means “tall bridge”. 高畑 means “high farm”.
 - <ruby>悪<rt>わる</rt></ruby>い bad
   - In the Mario franchise, Mario’s evil twin is Wario, which is a pun on this word.
+  - It can also mean “sorry”, as in, an apology—maybe it’s where American slang got its “my bad”.
 - <ruby>楽<rt>たの</rt></ruby>しい fun
 - <ruby>強<rt>つよ</rt></ruby>い strong
 - <ruby>新<rt>あたら</rt></ruby>しい new
