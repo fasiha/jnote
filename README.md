@@ -402,6 +402,36 @@ Here 雫’s friend is teasing her, saying *her* situation with 聖司 is so <ru
 
 聖司’s grandfather, <ruby>西<rt>にし</rt></ruby>さん, is praising 雫 as <ruby>素敵<rt>wonderful</rt></ruby> after she finished writing her novel.
 
+## Negating adjectives <cite>(Kamiya, §13)</cite>
+
+Both when preceding a noun or in the predicate (somewhere after the topic marker は), negated adjectives are formed thusly:
+
+- `(い-adjective) - い + く + ない`, where the `-` means “remove”
+  - Replace ない with ありません for politeness
+- `(な-adjective) + では + ない`, or, just like nouns:
+  - replace では with じゃ (so, じゃない) for less formality
+  - replace ない with ありません (so, ではありません) for more formality
+
+Some examples. First, the い-adjectives.
+
+> <img src="snaps/mimi/115.jpg"><br>
+> <ruby>悪<rt>わる</rt></ruby>くないよ。
+
+<ruby>夕子<rt>夕子</rt></ruby> negates <ruby>悪い<rt>bad</rt></ruby> to say “[this song is] not bad”.
+
+> <img src="snaps/mimi/587.jpg"><br>
+> <ruby>君<rt>きみ</rt></ruby>も　かわいくないね　私そっくり。
+
+雫 is telling Moon the cat (offscreen) that he <ruby>も<rt>too</rt></ruby> isn’t <ruby>かわいい<rt>cute</rt></ruby>. (Who else is like that, not cute? Answer: 「私<ruby>そっくり<rt>exactly like</rt></ruby>」.) かわいい is of course one of the most well-known words in Japanese.
+
+
+> <img src="snaps/mimi/866.jpg"><br>
+> <ruby>俺<rt>おれ</rt></ruby>　そういうの<ruby>好<rt>す</rt></ruby>きじゃないよ
+
+聖司 negates 好き to express his disatisfaction with the idea of going to college (he makes violins you know).
+
+All the ways we learned above about negating copulas, we can use to negate な-adjectives.
+
 # References
 
 Kamiya, Taeko. <cite>Japanese Sentence Patterns for Effective Communication</cite>, Kodansha (2005).
