@@ -312,9 +312,14 @@ My favorite な-adjectives include:
 - <ruby>大<rt>たい</rt></ruby><ruby>切<rt>せつ</rt></ruby> important, precious
 - <ruby>有<rt>ゆう</rt></ruby><ruby>名<rt>めい</rt></ruby> famous
 - <ruby>嫌<rt>いや</rt></ruby> unpleasant
-- <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby> lovely, great
 
-All but the last one are also in top-500 words in Japanese. (<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby> is in the 1500s.)
+These な-adjectives above are also in the top-500 words in Japanese. Some more な-adjectives that you may have heard:
+
+- <ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby> healthy, energetic
+- <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby> lovely, great
+- <ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby> OK (opposite of 駄目, below)
+- <ruby>駄<rt>だ</rt></ruby><ruby>目<rt>め</rt></ruby> not OK (opposite of 大丈夫, above)
+- <ruby>無<rt>む</rt></ruby><ruby>理<rt>り</rt></ruby> impossible
 
 The difference between the two groups is how we use each to modify nouns:
 
