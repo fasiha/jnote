@@ -387,7 +387,7 @@ Some examples.
 > <img src="snaps/porco/672.jpg"><br>
 > <ruby>俺<rt>おれ</rt></ruby>は<ruby>恥<rt>は</rt></ruby>ずかしい…。
 
-In this seen from 紅の豚 (*Porco Rosso*), the pirate chief says he’s ruby>恥ずかしい<rt>ashamed</rt></ruby> (and subsequently hangs his head).
+In this scene from 紅の豚 (*Porco Rosso*), the pirate chief says he’s <ruby>恥ずかしい<rt>ashamed</rt></ruby> (and subsequently hangs his head).
 
 In both examples—no need for a copula like だ or です. **However—caveat**. You may append です, like `(word) + は + (い-adjective) + です` to add politeness.
 
