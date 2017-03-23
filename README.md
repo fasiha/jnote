@@ -432,6 +432,8 @@ Some examples. First, the い-adjectives.
 
 All the ways we learned above about negating copulas, we can use to negate な-adjectives.
 
+Extra: you can always tack on a です at the end of a sentence ending in a negated adjective of either type to increase politeness.
+
 # References
 
 Kamiya, Taeko. <cite>Japanese Sentence Patterns for Effective Communication</cite>, Kodansha (2005).
