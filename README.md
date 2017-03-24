@@ -443,6 +443,32 @@ All the ways we learned above about negating copulas, we can use to negate な-a
 
 Extra: you can always tack on a です at the end of a sentence ending in a negated adjective of either type to increase politeness.
 
+## Past tense of adjectives <cite>(Kamiya, §14)</cite>
+
+Again we see that you can treat な-adjectives as nouns, tacking on a past-tense copula to render the adjective past-tense. い-adjectives work a little differently—they are verbs so we’re actually learning how to past-tensify (adjectival) verbs here:
+
+- `(い-adjective) - い + かった`
+  - Add `です` for added politeness
+- `(な-adjective) + だった` or `(な-adjective) + でした` (more formal)
+
+---
+
+> <img src="snaps/mimi/760.jpg"><br>
+> <ruby>本<rt>ほん</rt></ruby><ruby>当<rt>とう</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しかった　みんな　いい<ruby>人<rt>ひと</rt></ruby><ruby>達<rt>たち</rt></ruby>ね。
+
+雫 tells 聖司 that she <ruby>本当<rt>truly</rt></ruby> had <ruby>楽しい<rt>fun</rt></ruby> (past tense). (She goes on to say that <ruby>みんな<rt>everyone</rt></ruby> that she met are <ruby>いい<rt>nice</rt></ruby> people, where “people” is the combination of <ruby>人<rt>person</rt></ruby> and the pluralizing suffix for people or animals, <ruby>達<rt>たち</rt></ruby>.)
+
+---
+
+> <img src="snaps/mimi/817.jpg"><br>
+> <ruby>噂<rt>うわさ</rt></ruby>よ　<ruby>恋<rt>こい</rt></ruby><ruby>人<rt>びと</rt></ruby><ruby>同<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>みたいだったって。
+
+As mentioned above, <ruby>みたい<rt>resembling</rt></ruby> is one of the few な-adjectives that end in い, so it is followed by the copular past-tense to make the whole adjective past tense.
+
+Here, <ruby>夕子<rt>ゆうこ</rt></ruby> is explaining there’s a <ruby>噂<rt>rumor</rt></ruby> that they (雫 and 聖司, who are the conversation’s topic) <ruby>みたい<rt>resembled</rt></ruby> a <ruby>恋人同士<rt>pair of lovers</rt></ruby>.
+
+(恋人 (romance + person) is a perhaps-formal way of saying “lover” or “girl/boyfriend”—recall the “special feeling” memes from 2014 ([KnowYourMeme](http://knowyourmeme.com/memes/special-feeling-%E7%89%B9%E5%88%A5%E3%81%AA%E6%B0%97%E5%88%86)). 同士 (same + gentleman, in the Victorian sense) used as a suffix as here indicates mutuality.)
+
 # References
 
 Kamiya, Taeko. <cite>Japanese Sentence Patterns for Effective Communication</cite>, Kodansha (2005).
