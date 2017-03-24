@@ -81,6 +81,8 @@ Just refer to people, even the person you’re talking to, by their family name 
 
 In `(noun 1) の (noun 2)`, that `の` means the first noun modifies the second. Often it’s just possessive, per 『<ruby>君<rt>きみ</rt></ruby>の<ruby>名<rt>な</rt></ruby>は』[⋰](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171) but can be much more.
 
+---
+
 雫’s teacher asks why she can’t wait till the library’s <ruby>次<rt>next</rt></ruby>の<ruby>開放<rt>open</rt></ruby><ruby>日<rt>day</rt></ruby>:
 
 > <img src="snaps/mimi/72.jpg"><br>
@@ -91,12 +93,16 @@ She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先
 > <img src="snaps/mimi/92.jpg"><br>
 > ベテランの<ruby>先生<rt>せんせい</rt></ruby>に聞いてみな。
 
+---
+
 の can also be chained:
 
 > <img src="snaps/mimi/137.jpg"><br>
 > <ruby>他<rt>ほか</rt></ruby>のクラスの<ruby>子<rt>こ</rt></ruby>　少しカッコよかった。
 
 雫’s close friend <ruby>夕子<rt>ゆうこ</rt></ruby> is talking about receiving a letter from <ruby>他<rt>another</rt></ruby>の<ruby>クラス<rt>class</rt></ruby>の<ruby>子<rt>kid</rt></ruby>.
+
+---
 
 の can also do the following, with <ruby>誰<rt>だれ</rt></ruby> meaning “who” and with <ruby>シャツ<rt>shirt</rt></ruby>:
 
@@ -106,6 +112,8 @@ She then suggests asking a <ruby>ベテラン<rt>veteran</rt></ruby>の<ruby>先
 where the reply is short for
 
 > そのシャツは田中さんのです。
+
+---
 
 History note: <ruby>平<rt>たいら</rt></ruby>の<ruby>清盛<rt>きよもり</rt></ruby> was the proto-shogun hero in the epic Tale of the Heike.
 
@@ -117,20 +125,28 @@ History note: <ruby>平<rt>たいら</rt></ruby>の<ruby>清盛<rt>きよもり<
 - それ, “that, close to the listener”, and
 - あれ, “that, far from both speaker and listener”.
 
+---
+
 夕子 asks, “what is this?!”
 
 > <img src="snaps/mimi/126.jpg"><br>
 > <ruby>何<rt>なに</rt></ruby>これ！
+
+---
 
 The dashing 杉村 asks 雫 to throw him *that* sports bag by them:
 
 > <img src="snaps/mimi/151.jpg"><br>
 > それ<ruby>投<rt>な</rt></ruby>げて～！
 
+---
+
 When 雫 asks him which is his violin, 聖司 gestures and says
 
 > <img src="snaps/mimi/687.jpg"><br>
 > あれ。
+
+---
 
 More formal variants of these are
 
@@ -142,11 +158,15 @@ and can effectively be used as personal pronouns. When answering the phone, 田�
 
 > こちらは田中です。
 
+---
+
 Adjectival forms of these follow the same first sound:
 
 - この人, this person by me.
 - その人, the person by you.
 - あの人, that person over there.
+
+---
 
 There’s this priceless bit in <ruby>紅<rt>くれない</rt></ruby>の<ruby>豚<rt>ぶた</rt></ruby> (*Porco Rosso*, 1992) where the eponymous pilot addresses his airplane’s failing engine:
 
@@ -159,6 +179,8 @@ There’s this priceless bit in <ruby>紅<rt>くれない</rt></ruby>の<ruby>�
 
 > <img src="snaps/mimi/181.jpg"><br>
 > あぁ　これ　あんたのか。
+
+---
 
 To specify multiple alternatives, chain か like so:
 
@@ -184,6 +206,8 @@ We already used this example:
 
 This is short for 「これは何！」.
 
+---
+
 It can be abbreviated as なん to be more euphonious.
 
 > <img src="snaps/mimi/297.jpg"><br>
@@ -192,6 +216,8 @@ It can be abbreviated as なん to be more euphonious.
 Here, the は has been left off—it officially ought to be 「これは何ですか？」.
 
 Note for both 誰 and 何, start a sentence with the topic, followed by は (the topic marker), and then tack on the appropriate word to make it a who or what question: 「Ｘは誰？」 and 「Ｙは何？」. Optionally add 「…ですか？」.
+
+---
 
 I must close with a furious 雫 slamming the fridge door and asking “what the heck?!”:
 
@@ -209,6 +235,8 @@ Recall that the first section asked you not to read that だ and です (more po
 
 は in `ではない` and `ではありません` is pronounced わ; and by replacing `では` with `じゃ` (right-most column), you reduce formality: `じゃありません` is between `ではありません` and `ではない` in formality. ない is the informal form of ありません. ([StackExchange reference](http://japanese.stackexchange.com/a/12848/4706).)
 
+---
+
 雫 hopes this isn’t a <ruby>夢<rt>dream</rt></ruby>:
 
 > <img src="snaps/mimi/1336.jpg"><br>
@@ -225,6 +253,8 @@ Replacing the topic marker は with も means “also” or “as well” (“ne
 
 雫 had just said she likes library cards better than barcodes, and her father agrees—“me too”.
 
+---
+
 Here’s an example with a negated sentence:
 
 > <img src="snaps/mimi/587.jpg"><br>
@@ -232,12 +262,16 @@ Here’s an example with a negated sentence:
 
 雫 says that *neither* she nor the cat (whom she addresses as <ruby>君<rt>きみ</rt></ruby>, see above) is <ruby>かわいい<rt>cute</rt></ruby>. (We’ll see how the adjective かわいい gets negated below.)
 
+---
+
 も can be chained together <cite>(Kamiya, §8)</cite>:
 
 > <img src="snaps/mimi/1000.jpg"><br>
 > 雫さんも<ruby>聖司<rt>せいじ</rt></ruby>も その<ruby>石<rt>いし</rt></ruby>みたいなものだ。
 
 Here, 西さん (聖司’s grandfather) is telling 雫 that both she and 聖司 resemble a <ruby>石<rt>stone</rt></ruby> (a rough emerald, which is off-frame).
+
+---
 
 If the sentence is negative, も becomes でも when chained together:
 
@@ -255,6 +289,8 @@ Recall that the copulas だ and です (more polite) couple two things as “equ
 | だ | だった |
 | です | でした |
 
+---
+
 Simple example, using <ruby>友達<rt>friend</rt></ruby> and <ruby>先生<rt>teacher</rt></ruby> as vocabulary:
 
 > あの人は誰か。
@@ -262,6 +298,8 @@ Simple example, using <ruby>友達<rt>friend</rt></ruby> and <ruby>先生<rt>tea
 > <ruby>友達<rt>ともだち</rt></ruby>だ。
 >
 > <ruby>先生<rt>せんせい</rt></ruby>だった。
+
+---
 
 Here, the Baron (the cat doll) recalls that he and <ruby>ルイーゼ<rt>Luise</rt></ruby> were <ruby>幸せ<rt>happy</rt></ruby>:
 
@@ -280,6 +318,8 @@ Here are the copular past tenses, negated:
 | です | でした | ではありませんでした | じゃありませんでした |
 
 Again, は is pronounced わ, and `でわ` can be replaced with `じゃ` to reduce formality.
+
+---
 
 Here, 雫 is impressed that <ruby>杉村<rt>すぎむら</rt></ruby> (offscreen) is smart, and not just an <ruby>ただ<rt>ordinary</rt></ruby> <ruby>野球<rt>baseball</rt></ruby> <ruby>バカ<rt>fool</rt></ruby> 😂:
 
@@ -335,6 +375,8 @@ The difference between the two groups is how we use each to modify nouns:
 - い-adjective + noun
 - な-adjective + `な` + noun
 
+---
+
 Some quick examples: first the な, then the い.
 
 > <img src="snaps/mimi/129.jpg"><br>
@@ -342,12 +384,16 @@ Some quick examples: first the な, then the い.
 
 夕子 asks 雫 if she has a <ruby>好き<rt>beloved</rt></ruby>な<ruby>人<rt>person</rt></ruby> (someone she likes).
 
+---
+
 And who can forget this scene with 雫 enraged at 聖司 (offscreen)?
 
 > <img src="snaps/mimi/189.jpg"><br>
 > やな<ruby>奴<rt>やつ</rt></ruby>！　やな<ruby>奴<rt>やつ</rt></ruby>！　やな<ruby>奴<rt>やつ</rt></ruby>！
 
 Here, `や` in やな奴 is short for the な-adjective <ruby>嫌<rt>いや</rt></ruby> meaning “detestable” (you have very likely heard 「<ruby>嫌<rt>いや</rt></ruby>だ」, as a childish way of saying “do not want!”). Also, <ruby>奴<rt>guy</rt></ruby>.
+
+---
 
 Now for the い-adjectives:
 
@@ -368,15 +414,21 @@ Sidebar. Here’s the few な-adjectives ending in い in the list of the top-50
 
 Note that <ruby>小<rt>ちい</rt></ruby>さい (small) is *not* on this list: it’s an い-adjective. I mention this because in the previous example (about an old room, 古い部屋), it’s used as a な-adjective—super-confusing! This is because 小さい can be an い-adjective or a な-adjective. Don’t ask. (In this verse, it’s a <ruby>窓<rt>window</rt></ruby> that’s <ruby>小さな<rt>small</rt></ruby>.)
 
+---
+
 Sidebar the second. We’ll flesh this out soon enough, but the linguistic superheroes might appreciate this. な is basically a copula (and some な-adjectives [(Boaz Yaniv)](http://japanese.stackexchange.com/a/1016/4706) in some situations today still use だ or の), because な-adjectives are just nouns.
 
 Along those lines, い-adjectives are just verbs. As [Yaniv](http://japanese.stackexchange.com/a/1016/4706) explains, Japanese doesn’t really have adjectives, just nouns and verbs (and… other stuff) that modify nouns.
+
+---
 
 Sidebar the third. It may be worth noting that kanji in the above list of い-adjectives all used kunyomi (Japanese readings), while most of the な-adjectives are compound words using onyomi (Chinese readings). Is there a <ruby>和<rt>わ</rt></ruby><ruby>語<rt>ご</rt></ruby> versus <ruby>漢<rt>かん</rt></ruby><ruby>語<rt>ご</rt></ruby> thing here? Stay tuned! (Read more about the fascinating differences between these: [Koichi/Tofugu](https://www.tofugu.com/japanese/yamato-kotoba-language/), [yinamoto/Lang-8](http://lang-8.com/144559/journals/565126).)
 
 ## Adjectives in sentences <cite>(Kamiya, §12)</cite>
 
 As mentioned in a sidebar in the previous section, い-adjectives like いい are verbs, and they *replace* the copula (だ or です). In contrast, な-adjectives, being nouns, *require* a copula.
+
+---
 
 Some examples.
 
@@ -385,12 +437,16 @@ Some examples.
 
 雫’s mom notes that 雫’s older sister <ruby>汐<rt>しお</rt></ruby> (you can barely see her at the table in this still) is home <ruby>早い<rt>early</rt></ruby> <ruby>今日<rt>today</rt></ruby>. The `のね` is filler (`の` adding emphasis and `ね` adding a slight request for confirmation).
 
+---
+
 > <img src="snaps/porco/672.jpg"><br>
 > <ruby>俺<rt>おれ</rt></ruby>は<ruby>恥<rt>は</rt></ruby>ずかしい…。
 
 In this scene from 紅の豚 (*Porco Rosso*), the pirate chief says he’s <ruby>恥ずかしい<rt>ashamed</rt></ruby> (and subsequently hangs his head).
 
 In both examples—no need for a copula like だ or です. **However—caveat**. You may append です, like `(word) + は + (い-adjective) + です` to add politeness.
+
+---
 
 Some な-adjective examples.
 
@@ -401,10 +457,14 @@ Some な-adjective examples.
 
 Some further notes about this example: note the copular past tense here, だって. Also, the `から` following にぶい means that this is offered by way of explanation. So here, 雫 is saying that the situation they just left behind was ok, and not embarrassing as <ruby>夕子<rt>ゆうこ</rt></ruby> feared, *because* <ruby>杉村<rt>すぎむら</rt></ruby> is a dullard and failed to pick up on 夕子’s embarrassment at talking to him. See <cite>Kamiya, §82</cite> for the juicy details.
 
+---
+
 > <img src="snaps/mimi/454.jpg"><br>
 > まあ　ロマンチックですこと。
 
 Here 雫’s friend is teasing her, saying *her* situation with 聖司 is so <ruby>ロマンチック<rt>romantic</rt></ruby>, which is a な-adjective, and so needs `です`.
+
+---
 
 > <img src="snaps/mimi/1251.jpg"><br>
 > あなたは<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>です。
@@ -416,10 +476,12 @@ Here 雫’s friend is teasing her, saying *her* situation with 聖司 is so <ru
 Both when preceding a noun or in the predicate (somewhere after the topic marker は), negated adjectives are formed thusly:
 
 - `(い-adjective) - い + く + ない`, where the `-` means “remove”
-  - Replace ない with ありません for politeness
+  - Replace ない with ありません for politeness.
 - `(な-adjective) + では + ない`, or, just like nouns:
-  - replace では with じゃ (so, じゃない) for less formality
-  - replace ない with ありません (so, ではありません) for more formality
+  - replace では with じゃ (so, じゃない) for less formality.
+  - replace ない with ありません (so, ではありません) for more formality.
+
+---
 
 Some examples. First, the い-adjectives.
 
@@ -428,16 +490,21 @@ Some examples. First, the い-adjectives.
 
 <ruby>夕子<rt>夕子</rt></ruby> negates <ruby>悪い<rt>bad</rt></ruby> to say “[this song is] not bad”.
 
+---
+
 > <img src="snaps/mimi/587.jpg"><br>
 > <ruby>君<rt>きみ</rt></ruby>も　かわいくないね　私そっくり。
 
 雫 is telling Moon the cat (offscreen) that he <ruby>も<rt>too</rt></ruby> isn’t <ruby>かわいい<rt>cute</rt></ruby>. (Who else is like that, not cute? Answer: 「私<ruby>そっくり<rt>exactly like</rt></ruby>」.) かわいい is of course one of the most well-known words in Japanese.
 
+---
 
 > <img src="snaps/mimi/866.jpg"><br>
 > <ruby>俺<rt>おれ</rt></ruby>　そういうの<ruby>好<rt>す</rt></ruby>きじゃないよ
 
 聖司 negates 好き to express his disatisfaction with the idea of going to college (he makes violins you know).
+
+---
 
 All the ways we learned above about negating copulas, we can use to negate な-adjectives.
 
