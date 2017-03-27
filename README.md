@@ -536,6 +536,33 @@ Here, <ruby>夕子<rt>ゆうこ</rt></ruby> is explaining there’s a <ruby>噂<
 
 (恋人 (romance + person) is a perhaps-formal way of saying “lover” or “girl/boyfriend”—recall the “special feeling” memes from 2014 ([KnowYourMeme](http://knowyourmeme.com/memes/special-feeling-%E7%89%B9%E5%88%A5%E3%81%AA%E6%B0%97%E5%88%86)). 同士 (same + gentleman, in the Victorian sense) used as a suffix as here indicates mutuality.)
 
+## Negated adjectival past tenses <cite>(Kamiya, §15)</cite>
+
+We’ve learned how to use adjectives as predicates, negate them, and make them into the past tense. Let’s wrap up this use of adjectives by learning negated past tense.
+
+For い-adjectives the formula is: `(い-adjective) - い + く + なかった`. I.e., add a な (short for ない) in the middle of the standard non-negated past tense.
+
+For な-adjectives, add one any of the negated past-tense copulas:
+
+- ではなかった
+- ではありませんでした
+- じゃなかった
+- じゃありませんでした
+
+---
+
+It’s a little hard to find examples of this in our favorite Studio Ghibli films, but I hope the following dry examples are helpful:
+
+> <ruby>高<rt>たか</rt></ruby>くなかったビル。
+
+Here we are talking about a (not) <ruby>高い<rt>expensive</rt></ruby> (though this い-adjective also means “tall”) <ruby>ビル<rt>building</rt></ruby>.
+
+---
+
+> <ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>じゃなかった。
+
+Someone (the topic of the conversastion) wasn’t feeling <ruby>元気<rt>well</rt></ruby> (a な-adjective, as well as a noun meaning “health”).
+
 # References
 
 Kamiya, Taeko. <cite>Japanese Sentence Patterns for Effective Communication</cite>, Kodansha (2005).
